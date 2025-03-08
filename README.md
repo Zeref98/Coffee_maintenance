@@ -20,7 +20,7 @@ coffee_maintenance/
 ├── maintenance_task.py  # Clase para representar una tarea de mantenimiento
 ├── main.py              # Punto de entrada de la aplicación
 └── logo.png             # Logo de la aplicación
-plaintext```
+```
 
 
 ## Requisitos
