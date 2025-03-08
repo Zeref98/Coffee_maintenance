@@ -11,6 +11,7 @@ Este proyecto es una aplicación de escritorio en Python para gestionar el mante
 
 La estructura de archivos es la siguiente:
 
+```plaintext
 coffee_maintenance/
 ├── config.py            # Configuración global (tipos de máquina y tareas predeterminadas)
 ├── data_manager.py      # Gestión de carga y guardado de datos en formato JSON
@@ -19,6 +20,7 @@ coffee_maintenance/
 ├── maintenance_task.py  # Clase para representar una tarea de mantenimiento
 ├── main.py              # Punto de entrada de la aplicación
 └── logo.png             # Logo de la aplicación
+plaintext```
 
 
 ## Requisitos
